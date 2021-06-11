@@ -26,3 +26,4 @@ if (condition) { //3
     if (10 < 5) {
         console.log("This code will not run! 10 is not greater than 5.");
     };
+    

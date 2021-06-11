@@ -5,3 +5,4 @@ if (count > 1) {
     console.log("I have no cookies.")
 }
 (count >1) ? console.log("I have more than one cookie!") : console.log("I have no cookies")
+

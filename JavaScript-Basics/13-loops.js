@@ -23,3 +23,4 @@ for (let i = 20; i>=1; i--){
 for(let i =3; i< 30; i += 5){
     console.log (i)
 }
+

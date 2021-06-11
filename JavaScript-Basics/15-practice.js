@@ -11,3 +11,4 @@ function printInfo(firstName, age, isFemale){
 }
 
 printInfo(firstName, age, isFemale);
+
